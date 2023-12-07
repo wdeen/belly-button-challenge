@@ -18,7 +18,7 @@ The dataset reveals that a small handful of microbial species (also called opera
     - Use `otu_labels` as the hovertext for the chart.
 
 <p align="center">
-  <img src="./Images/bar_chart.jpg" width="100%">
+  <img src="./Images/bar_chart.jpg" width="45%">
 </p>
 
 - Part 3: Create a bubble chart that displays each sample.
@@ -29,7 +29,7 @@ The dataset reveals that a small handful of microbial species (also called opera
     - Use `otu_labels` for the text values.
 
 <p align="center">
-  <img src="./Images/bubble_chart.jpg" width="100%">
+  <img src="./Images/bubble_chart.jpg" width="45%">
 </p>
 
 - Part 4: Display the sample metadata, i.e., an individual's demographic information on the panel body.
@@ -37,7 +37,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Part 5: Display each key-value pair from the metadata sample JSON object on the same panel body.
 
 <p align="center">
-  <img src="./Images/panel_body.jpg" width="100%">
+  <img src="./Images/panel_body.jpg" width="45%">
 </p>
 
 - Part 6: Update all the plots when a new sample is selected from the dropdown menu.
@@ -45,7 +45,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 # Final Interactive Board
 
 <p align="center">
-  <img src="./Images/final_board.png" width="100%">
+  <img src="./Images/final_board.png" width="70%">
 </p>
 
 # Notes
