@@ -1,6 +1,9 @@
 # belly-button-challenge
 Module 14 Challenge (D3 JavaScript Interactive Web Visualisation) - Wassim Deen
 
+# My GitHub Page
+View the Deployed Interactive Board here: https://wdeen.github.io/
+
 # Scenario Description
 For this, I had to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogues the microbes that colonise human navels.
 
@@ -29,7 +32,7 @@ The dataset reveals that a small handful of microbial species (also called opera
     - Use `otu_labels` for the text values.
 
 <p align="center">
-  <img src="./Images/bubble_chart.jpg" width="70%">
+  <img src="./Images/bubble_chart.jpg" width="100%">
 </p>
 
 - Part 4: Display the sample metadata, i.e., an individual's demographic information on the panel body.
@@ -37,7 +40,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 - Part 5: Display each key-value pair from the metadata sample JSON object on the same panel body.
 
 <p align="center">
-  <img src="./Images/panel_body.jpg" width="45%">
+  <img src="./Images/panel_body.jpg" width="30%">
 </p>
 
 - Part 6: Update all the plots when a new sample is selected from the dropdown menu.
@@ -45,7 +48,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 # Final Interactive Board
 
 <p align="center">
-  <img src="./Images/final_board.PNG" width="70%">
+  <img src="./Images/final_board.PNG" width="100%">
 </p>
 
 # Notes
