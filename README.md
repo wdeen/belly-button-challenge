@@ -29,7 +29,7 @@ The dataset reveals that a small handful of microbial species (also called opera
     - Use `otu_labels` for the text values.
 
 <p align="center">
-  <img src="./Images/bubble_chart.jpg" width="45%">
+  <img src="./Images/bubble_chart.jpg" width="70%">
 </p>
 
 - Part 4: Display the sample metadata, i.e., an individual's demographic information on the panel body.
@@ -45,7 +45,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 # Final Interactive Board
 
 <p align="center">
-  <img src="./Images/final_board.png" width="70%">
+  <img src="./Images/final_board.PNG" width="70%">
 </p>
 
 # Notes
